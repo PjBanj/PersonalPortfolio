@@ -7,7 +7,22 @@ import { Component, OnInit } from '@angular/core';
     <div class="navbar-brand">
       <a class="navbar-item">
         LOGO GOES HERE
-    </a>
+      </a>
+      <a class="navbar-item">
+        Home
+      </a>
+      <a class="navbar-item">
+        About
+      </a>
+      <a class="navbar-item">
+        About
+      </a>
+      <a class="navbar-item">
+        Skills
+      </a>
+      <a class="navbar-item">
+        Work History
+      </a>
   </div>
 </div>
   `,
